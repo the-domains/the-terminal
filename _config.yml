@@ -1,0 +1,28 @@
+name: The Terminal
+favicon: null
+layout_spectrum: 0.649061813717708
+typography_spectrum: 0.49904679832980037
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.8462546321097761
+  lightness: 0.0688161754515022
+  saturation: 0.7307188459672034
+  rhythmicContrast: 0.7723409098107368
+purpose: []
