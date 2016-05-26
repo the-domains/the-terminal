@@ -5,14 +5,14 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'This platforms hosts content by migrants. Free from sensationalizm, romanticizing, or pontification. Just them, as told by them.'
-datePublished: '2016-05-26T18:17:28.171Z'
-dateModified: '2016-05-26T18:17:14.262Z'
+datePublished: '2016-05-26T18:21:38.723Z'
+dateModified: '2016-05-26T18:17:36.150Z'
 title: ''
 author: []
+sourcePath: _posts/2016-05-26-this-platforms-hosts-content-by-migrants-free-from-sensatio.md
 authors: []
 publisher: null
 starred: false
-sourcePath: _posts/2016-05-26-this-platforms-hosts-content-by-migrants-free-from-sensatio.md
 url: this-platforms-hosts-content-by-migrants-free-from-sensatio/index.html
 _type: Article
 
