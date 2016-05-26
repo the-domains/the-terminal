@@ -1,7 +1,7 @@
 name: The Terminal
 favicon: null
-layout_spectrum: 0.64364
-typography_spectrum: 0.49904679832980037
+layout_spectrum: 0.55873
+typography_spectrum: 0.54964
 title: The Terminal
 cta:
   domain: null
@@ -22,8 +22,8 @@ color:
     - '#272727'
     - '#8a8a8a'
     - '#555555'
-  brandStrength: 0.8462546321097761
-  lightness: 0.0688161754515022
+  brandStrength: 0.1875
+  lightness: 0.75
   saturation: 0.7307188459672034
   rhythmicContrast: 0.7723409098107368
 purpose: []
